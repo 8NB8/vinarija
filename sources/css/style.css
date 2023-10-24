@@ -82,7 +82,7 @@ p{
     color: #d0b892;
 }
 #wines{
-    padding-top: 100px;
+    padding: 6em 0;
 }
 
 #wines .card{
@@ -92,7 +92,7 @@ p{
 
 
 #wines p{
-    font-size: 1.1em;
+    font-size: 1.1rem;
     color: #adabab;
 }
 #wines .line{
@@ -100,5 +100,31 @@ p{
     height: 1px;
     background: #d0b892;
     display: block;
-    margin: 1em 0em;
+    margin: 1rem 0em;
+}
+.cta {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../img/cta-bg.jpg) fixed center center;
+    background-size: cover;
+    padding: 4rem 0;
+}
+.cta h1{ 
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 2.5rem;
+    color: #d0b892;
+}
+#awards h2{
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 2.5rem;
+    color: #d0b892;
+}
+#awards img{
+    margin: auto;
+}
+#awards p{
+    color: #adabab;
+    font-size: 1.1rem;
+}
+#awards h5{
+    color: #d0b892;
+    font-size: 1.5rem;
 }
