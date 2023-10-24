@@ -62,6 +62,19 @@ p{
 .nav-item a:hover{
     color: #d0b892;
 }
+#about h1{ 
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 46px;
+    color: #d0b892;
+    padding-top: 60px;
+    text-decoration: underline;
+}
+#about p{ 
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 1.2rem;
+    color: #a8a8a8;
+
+}
 
 #wines h5{
     font-family: 'botera_tferegular_stencil'; 
