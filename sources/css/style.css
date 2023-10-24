@@ -128,3 +128,34 @@ p{
     color: #d0b892;
     font-size: 1.5rem;
 }
+#contact h2{
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 2rem;
+    color: #d0b892;
+
+}
+#contact .line{
+    width: 50px;
+    height: 1px;
+    background: #d0b892;
+    display: block;
+    margin: 1rem 0em;
+}
+#contact p{
+    font-size: 1.1rem;
+    color: #adabab;
+}
+.contact-icon{
+    color: #d0b892;
+    font-size: 50px;
+}
+#footer h2{
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 1.5rem;
+    color: #d0b892;
+}
+#footer p{
+    font-family: 'botera_tferegular_stencil'; 
+    font-size: 0.8rem;
+    color: #adabab;
+}
