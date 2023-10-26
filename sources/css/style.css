@@ -145,9 +145,9 @@ p{
     font-size: 1.1rem;
     color: #adabab;
 }
-.contact-icon{
+#contact .contact-icon{
     color: #d0b892;
-    font-size: 50px;
+    font-size: 2.5rem;
 }
 #footer h2{
     font-family: 'botera_tferegular_stencil'; 
@@ -158,4 +158,8 @@ p{
     font-family: 'botera_tferegular_stencil'; 
     font-size: 0.8rem;
     color: #adabab;
+}
+#footer i{
+    color: #ffffff; 
+    font-size: 1.5rem;
 }
